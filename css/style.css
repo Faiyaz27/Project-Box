@@ -1,0 +1,43 @@
+body{
+	margin:0;
+  }
+
+.container{
+	width: 1000px;
+    min-height: 800px;
+    background-color: yellow;
+    margin-right: auto;
+    margin-left: auto;
+}    
+
+.box1{height: 200px;
+      width:33.33%;
+     float: left;}
+
+.box2{height: 200px;
+      width: 100%;
+      float:left;}     
+
+.box3{
+	height: 200px;
+	width: 50%;
+	float: left;
+}     
+
+.box4{
+	height: 200px;
+    width: 70%;
+    float: left;}
+
+.box5{height: 200px;
+    width: 15%;
+    float: left;}    
+
+.red{background-color: red;}
+.blue{background-color: blue;} 
+.green{background-color: green;} 
+.white{background-color: white;} 
+.seagreen{background-color: seagreen;} 
+.brown{background-color: brown;}
+.black{background-color: black;}
+.yellow{background-color: yellow;}
